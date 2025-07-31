@@ -11,6 +11,8 @@ Transform a landscape video into an animated portrait view using a keyframe time
 - You can see the entire video with black bars (letterboxing)
 - Basic play/pause functionality exists
 
+<img width="407" height="750" alt="Screenshot 2025-07-31 at 3 37 57 p m" src="https://github.com/user-attachments/assets/7d0e9ba6-81d4-43e4-9cb1-e609af472f0b" />
+
 ### Your Task
 Create a system that:
 1. **Shows only a portrait section** (9:16) of the landscape video
@@ -37,6 +39,8 @@ PORTRAIT VIEW (What you'll create):
 │           │
 └───────────┘
 ```
+
+https://github.com/user-attachments/assets/538548e5-499a-417c-ac06-edd87568bc44
 
 ## 📋 Requirements
 
